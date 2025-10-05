@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<theme>
+	<color selection="4"/>
+	<bgimagetable>
+		<bgimage anim="anim_1.jpg"/>
+	</bgimagetable>
+	<icontable>
+		<icon id="icon_user" src="icon_user_1.gim.png"/>
+		<icon id="icon_music" src="icon_music_1.gim.png"/>
+		<icon id="icon_network" src="icon_network_1.gim.png"/>
+		<icon id="icon_video" src="icon_video_1.gim.png"/>
+		<icon id="icon_setting" src="icon_setting_1.gim.png"/>
+		<icon id="icon_tv" src="icon_tv_1.gim.png"/>
+		<icon id="icon_photo" src="icon_photo_1.gim.png"/>
+		<icon id="icon_friend" src="icon_friend_1.gim.png"/>
+		<icon id="icon_game" src="icon_game_1.gim.png"/>
+	</icontable>
+	<font selection="2"/>
+	<infotable>
+		<localizedinfo comment="エンジェル戦記 - DCT01" locale="jp" name="AngelSenki DCT01"/>
+		<localizedinfo locale="en" name="AngelSenki Dynamic Custom Theme 01"/>
+		<info author="Q Entertainment" authoricon="authoricon_1.gim.png" authoriconsize="16512" comment="this is an AngelSenki Dynamic Custom Theme 01." genre="MMORPG" icon="icon_1.gim.png" iconsize="16512" mtime="20100603125119" name="AngelSenki Dynamic Custom Theme 01" preview="preview_1.gim.png" previewsize="518528" url="http://www.angelsenki.jp/" version="version 1.0"/>
+	</infotable>
+</theme>
